@@ -1,0 +1,14 @@
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\bin\Debug\net8.0\IS-CompositePattern.exe
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\obj\Debug\net8.0\IS-CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\obj\Debug\net8.0\IS-CompositePattern.AssemblyInfoInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\obj\Debug\net8.0\IS-CompositePattern.AssemblyInfo.cs
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\obj\Debug\net8.0\IS-CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\obj\Debug\net8.0\IS-CompositePattern.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\obj\Debug\net8.0\refint\IS-CompositePattern.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\obj\Debug\net8.0\IS-CompositePattern.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\bin\Debug\net8.0\IS-CompositePattern.deps.json
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\bin\Debug\net8.0\IS-CompositePattern.runtimeconfig.json
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\bin\Debug\net8.0\IS-CompositePattern.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\bin\Debug\net8.0\IS-CompositePattern.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\obj\Debug\net8.0\IS-CompositePattern.genruntimeconfig.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-CompositePattern\IS-CompositePattern\obj\Debug\net8.0\ref\IS-CompositePattern.dll

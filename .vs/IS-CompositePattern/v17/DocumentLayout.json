@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFED8BD7-206D-4EA3-B7BB-5D23B1004FC8}|IS-CompositePattern\\IS-CompositePattern.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\is-compositepattern\\is-compositepattern\\automobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED8BD7-206D-4EA3-B7BB-5D23B1004FC8}|IS-CompositePattern\\IS-CompositePattern.csproj|solutionrelative:is-compositepattern\\automobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFED8BD7-206D-4EA3-B7BB-5D23B1004FC8}|IS-CompositePattern\\IS-CompositePattern.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\is-compositepattern\\is-compositepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED8BD7-206D-4EA3-B7BB-5D23B1004FC8}|IS-CompositePattern\\IS-CompositePattern.csproj|solutionrelative:is-compositepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFED8BD7-206D-4EA3-B7BB-5D23B1004FC8}|IS-CompositePattern\\IS-CompositePattern.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\is-compositepattern\\is-compositepattern\\registarskanalepnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED8BD7-206D-4EA3-B7BB-5D23B1004FC8}|IS-CompositePattern\\IS-CompositePattern.csproj|solutionrelative:is-compositepattern\\registarskanalepnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFED8BD7-206D-4EA3-B7BB-5D23B1004FC8}|IS-CompositePattern\\IS-CompositePattern.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\is-compositepattern\\is-compositepattern\\flota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED8BD7-206D-4EA3-B7BB-5D23B1004FC8}|IS-CompositePattern\\IS-CompositePattern.csproj|solutionrelative:is-compositepattern\\flota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFED8BD7-206D-4EA3-B7BB-5D23B1004FC8}|IS-CompositePattern\\IS-CompositePattern.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\is-compositepattern\\is-compositepattern\\vozilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED8BD7-206D-4EA3-B7BB-5D23B1004FC8}|IS-CompositePattern\\IS-CompositePattern.csproj|solutionrelative:is-compositepattern\\vozilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistarskaNalepnica.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\RegistarskaNalepnica.cs",
+              "RelativeDocumentMoniker": "IS-CompositePattern\\RegistarskaNalepnica.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\RegistarskaNalepnica.cs",
+              "RelativeToolTip": "IS-CompositePattern\\RegistarskaNalepnica.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwBkAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:28:02.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flota.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\Flota.cs",
+              "RelativeDocumentMoniker": "IS-CompositePattern\\Flota.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\Flota.cs",
+              "RelativeToolTip": "IS-CompositePattern\\Flota.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAywDEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:19:54.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Automobil.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\Automobil.cs",
+              "RelativeDocumentMoniker": "IS-CompositePattern\\Automobil.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\Automobil.cs",
+              "RelativeToolTip": "IS-CompositePattern\\Automobil.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwB0AAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:11:01.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vozilo.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\Vozilo.cs",
+              "RelativeDocumentMoniker": "IS-CompositePattern\\Vozilo.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\Vozilo.cs",
+              "RelativeToolTip": "IS-CompositePattern\\Vozilo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:20:50.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\Program.cs",
+              "RelativeDocumentMoniker": "IS-CompositePattern\\Program.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\Program.cs",
+              "RelativeToolTip": "IS-CompositePattern\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:20:24.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
